@@ -42,8 +42,14 @@ linguagens como C# e Java, React JS e Angular além de bancos de dados e serviç
 <br/>
 
 <a href="https://github.com/tmfioravanti" title="Perfil do Thiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmfioravanti&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmfioravanti&show_icons=true&theme=radical" />
 </a>
+
+<a href="https://github.com/tmfioravanti" title="Perfil do Thiago">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmfioravanti&hide_progress=false&theme=radical" />
+</a>
+
+
 
 ## Onde me encontrar
 
