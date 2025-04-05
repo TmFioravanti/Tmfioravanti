@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Thiago!
+## Olá, meu nome é Thiago!
 
 Nos últimos anos, minha paixão pela tecnologia me levou a iniciar uma transição para a área
 de TI. Tenho me dedicado ao estudo de desenvolvimento FullStack, Cibersegurança e Análise e
