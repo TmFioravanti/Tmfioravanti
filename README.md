@@ -15,8 +15,10 @@ linguagens como C#, Python e Java, React JS e Angular além de bancos de dados e
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/typescript-333333?style=flat&for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![C#](https://img.shields.io/badge/C%23-333333?style=&logo=visual-studio-code&logoColor=%234B275F)
+![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=visual-studio-code&logoColor=%234B275F)
+![Python](https://img.shields.io/badge/python-333333?style=flat&for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-333333.svg?style=flat&for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
@@ -32,12 +34,12 @@ linguagens como C#, Python e Java, React JS e Angular além de bancos de dados e
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma)](https://skillicons.dev)
 
+**Planejamento e organização**
 
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
 
 <br/>
 
