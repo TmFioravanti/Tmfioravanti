@@ -1,7 +1,7 @@
 ## Olá, meu nome é Thiago!
 
 Nos últimos anos, minha paixão pela tecnologia me levou a iniciar uma transição para a área
-de TI. Tenho me dedicado ao estudo de desenvolvimento FullStack, Cibersegurança e Análise e
+de TI. Tenho me dedicado aos estudos de desenvolvimento FullStack, Cibersegurança, Análise e
 Desenvolvimento de Sistemas, buscando constantemente aprimorar minhas habilidades técnicas em
 linguagens como C#, Python e Java, React JS e Angular além de bancos de dados e serviços de nuvem.
 
